@@ -1,6 +1,6 @@
 # Introducing myself
 
-* English(you are here :)) | [简体中文](README-CN.md)
+* English(you are here :) ) | [简体中文](README-CN.md)
 
 Hi there! 👋 I’m xm-xyt03!
 I’m a passionate C++ developer. While I don’t upload projects frequently on GitHub, I love diving into challenging problems and exploring new technologies. Here’s a brief overview of what I’m all about:
