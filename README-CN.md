@@ -13,8 +13,10 @@
 * 工具：CMake、Visual Studio、VSCode、Git
 * 兴趣领域：算法、数据结构、游戏开发
 ## 💬 让我们联系起来
-* 如果你想合作、讨论编程或者只是聊天，欢迎随时联系我！你可以在以下平台找到我：Github （别问我为什么没有其他联系方式）
+* 如果你想合作、讨论编程或者只是聊天，欢迎随时联系我！你可以在以下平台找到我：Github 电子邮件
 
 * GitHub：@xm-xyt03
+* 电子邮件：xiaoyuntun073@gmail.com
+* 电子邮件 2：xiaoyuntun073@outlook.com
 
 期待与其他开发者建立联系！😊
