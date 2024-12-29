@@ -13,9 +13,11 @@
 * Tools: CMake, Visual Studio, VSCode, Git
 * Areas of Interest: Algorithms, Data Structures
 ## 💬 Let’s Connect
-* Feel free to reach out if you want to collaborate, discuss programming, or just chat! You can find me on: Github (Don't ask me why i don't have other social medias)
+* Feel free to reach out if you want to collaborate, discuss programming, or just chat! You can find me on: Github, Email
 
 * GitHub: xm-xyt03
+* Email: xiaoyuntun073@gmail.com
+* Email 2: xiaoyuntun073@outlook.com
 * LinkedIn: Not Availble
 
 * Copyright © xm-xyt03 2024
